@@ -10,7 +10,8 @@ PLC, MySQL, OpenCV, YOLO 모델을 연동하여 설비의 생산성과 품질을
 (https://github.com/HYUN-SU123/POP)
 ## 👨‍💻 개발자
 
-| 이름 | GitHub | Email |
-|------|--------|-------|
-| 유현수 | [github.com/HYUN-SU123](https://github.com/HYUN-SU123) | gustn8608@naver.com |
+| 이름 | GitHub |
+|------|--------|
+| 유현수 | [github.com/HYUN-SU123](https://github.com/HYUN-SU123) |
+| 이승민 | [github.com/seung064](https://github.com/seung064) |
 ---
